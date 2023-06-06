@@ -2,7 +2,6 @@
 - I can do anything for code <3
 - Contact: https://www.facebook.com/TTP.0937039625
 
-<!---
-phuccan0800/phuccan0800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="phuccan0800" />
