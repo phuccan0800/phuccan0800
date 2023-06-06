@@ -3,7 +3,7 @@
 - Contact:
 <a href="https://www.linkedin.com/in/phuccan0800">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> <br>
 
 
 📈 my github stats
