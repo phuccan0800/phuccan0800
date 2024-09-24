@@ -1,7 +1,12 @@
-- <h>BEST PROJECT: <a href="https://github.com/phuccan0800/Python-Project">AIRDROP TOOL </a> ( This Private Project, If you want this, just contact me ) </h>
-- 👋 Hi, I’m @phuccan0800
-- I can do anything for code <3
+
 - Contact:
+<h1 align="center">👋 Hi, I’m @phuccan0800 👋</h1>
+<h3 align="center">Trying to be fullstack developer. Can learn any thing </h3>
+<p align="center">
+  <a href="https://github.com/phuccan0800"><img src="https://komarev.com/ghpvc/?username=phuccan0800&style=flat-square" alt="Profile views"/></a>
+</p>
+
+---
 <a align="center" href="https://www.linkedin.com/in/phuccan0800">Linkedin
 </a> <br>
 
