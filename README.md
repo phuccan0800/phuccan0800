@@ -12,5 +12,4 @@
 📈 my github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuccan0800&theme=algolia&layout=compact" alt="Top Langs"/>
-</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phuccan0800&show_icons=true&theme=gotham" alt="Github Stats" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=phuccan0800&show_icons=true&theme=gotham" alt="Github Stats" /> </p>
