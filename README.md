@@ -91,13 +91,6 @@ I'm a passionate developer on a journey to become a fullstack developer. I love 
 </p>
 ---
 
-### 🏆 Achievements
-- **Open Source Contributor**: Actively contributing to open-source projects.
-- **Certifications**: [Add relevant certifications here]
-- **Projects**: Built scalable web and mobile applications.
-
----
-
 ### 💡 Fun Fact
 I can learn anything if I put my mind to it! 🧠
 
