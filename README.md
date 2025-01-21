@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/phuccan0800">
-    <img src="https://komarev.com/ghpvc/?username=phuccan0800&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=phuccan0800&style=flat-square&color=00CED1&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
   <a href="https://github.com/phuccan0800?tab=followers">
-    <img src="https://img.shields.io/github/followers/phuccan0800?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/phuccan0800?label=FOLLOWERS&style=flat-square&color=00FF7F" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/phuccan0800">
-    <img src="https://img.shields.io/github/stars/phuccan0800?label=Stars&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/phuccan0800?label=STARS&style=flat-square&color=FFD700" alt="GitHub Stars" />
   </a>
 </p>
 
@@ -89,6 +89,7 @@ I'm a passionate developer on a journey to become a fullstack developer. I love 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuccan0800&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </p>
+
 ---
 
 ### 💡 Fun Fact
